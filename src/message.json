@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Message from John Doe",
+      "content": "Hey, I was just checking in to see how you’ve been doing. It’s been a while since we last caught up, and I’d love to hear about what’s new with you. Let me know when you’re free to chat!",
+      "received": "Received 10 days ago"
+    },
+    {
+      "title": "Message from Sarah Johnson",
+      "content": "Don’t forget about tomorrow’s team meeting at 10 AM. We’ll be discussing the upcoming project deadlines and assigning responsibilities. Please review the documents I shared earlier to ensure a productive session. Let me know if you have any questions before the meeting.",
+      "received": "Received 3 days ago"
+    },
+    {
+      "title": "Message from Michael Brown",
+      "content": "Can you send over the final draft of the report by this evening? I’d like to review it before submitting it to the client tomorrow morning. Let me know if you need any additional details or support to wrap it up on time.",
+      "received": "Received 5 days ago"
+    },
+    {
+      "title": "Message from Emily Davis",
+      "content": "It was so great catching up with you the other day! I really enjoyed hearing about everything you’ve been working on lately. Let’s not let so much time pass before we get together again. Let me know when you’re available next!",
+      "received": "Received 2 days ago"
+    },
+    {
+      "title": "Message from Daniel Smith",
+      "content": "Hey, I was wondering if you’d be free this weekend to hang out or maybe grab a coffee. It’s been too long since we’ve had a proper catch-up. Let me know what your schedule looks like, and we’ll figure something out.",
+      "received": "Received 7 days ago"
+    },
+    {
+      "title": "Message from Lisa Williams",
+      "content": "Happy Birthday! I hope your day has been filled with love, laughter, and all the things that make you happy. Wishing you all the best for the year ahead. Let’s celebrate soon—I’d love to treat you to dinner or drinks!",
+      "received": "Received 1 day ago"
+    }
+  ]
+  
+      
